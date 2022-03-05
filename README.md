@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi there, I'm Fahad Abdul Qayyum 
+Website
 
-<!--
-**fahadabdulqayyum16/fahadabdulqayyum16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Fullstack developer,
 
-Here are some ideas to get you started:
+ I’m learning something amazing!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 2023 Goals: Contribute more to Open Source projects
+
+ fun fact: Coding is not my job its my hobby and i love doing it.
+
+TECHNOLOGIES I USE OR CODE WITH:
+                
+
+Connect with me:
+Fahad.comqtr.netlify.app | Facebookhussainmansoor876 | LinkedIn
+
+
+
+Insha'Allah, a great destiny is waiting for me!
+
+Dismiss for Now! Click for Future! See you there with best wishes!
